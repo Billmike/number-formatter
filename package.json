@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "comma-bean",
   "version": "0.1.0",
   "description": "Simple node module",
   "main": "index.js",
