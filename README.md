@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Billmike/number-formatter.svg?branch=master)](https://travis-ci.org/Billmike/number-formatter)
+
 Number Formatter
 ================
 
